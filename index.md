@@ -371,8 +371,24 @@ to include the relevant installation instructions.
 
 {% comment %}
 These are the installation instructions for the tools used
-during the workshop.
+during the workshop. The instructions are organized per topic that we teach, 
+so make sure you follow the instructions for the sessions you want to join!
 {% endcomment %}
 
+<h3>Instructions for 'Introduction to Version Control with Git' and 'Collaboration with Git and Github' </h3>
 {% include install_instructions/git.html %}
+
+<h3>Instructions for 'Introduction to Programming and Data Analysis with Python' </h3>
+<h4>Data</h4>
+
+Here is a [zip file with data for the Python lesson](https://datacarpentry.org/python-ecology-lesson/data/portal-teachingdb-master.zip)
+
+Clicking the download link will automatically download all of the files to your default download directory as a single compressed
+(`.zip`) file. To expand this file, double click the folder icon in your file navigator application (for Macs, this is the Finder
+application).
+
+For a full description of the data used in this workshop see [this page](https://datacarpentry.org/ecology-workshop/data/index.html).
+
 {% include install_instructions/python.html %}
+
+
