@@ -371,7 +371,7 @@ during the workshop.
 {% include install_instructions/python.html %}
 
 <h3>Instructions for 'Introduction to Machine Learning with scikit-learn' </h3>
-For this workshop, you need to have Python 3 installed. We work with Jupyter notebooks. See the instructions for the Intro to Python workshop on how to install Jupyter with Anaconda.
+For this workshop, you need to have Python 3 and Jupyter lab installed. See the instructions for the Intro to Python workshop on how to install Python with Anaconda.
 
 In addition, you need the following python packages:
 - pandas
@@ -384,7 +384,7 @@ conda install pandas scikit-learn seaborn
 ```
 
 <h3>Instructions for 'Introduction to Deep Learning with Keras' </h3>
-For this workshop, you need to have Python 3 installed. We work with Jupyter notebooks. See the instructions for the Intro to Python workshop on how to install Jupyter with Anaconda.
+For this workshop, you need to have Python 3 and Jupyter lab installed. See the instructions for the Intro to Python workshop on how to install Python with Anaconda.
 
 In addition, you need the following python packages:
 - pandas
