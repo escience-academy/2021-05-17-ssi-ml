@@ -385,3 +385,34 @@ For a full description of the data used in this workshop see [this page](https:/
 {% include install_instructions/python.html %}
 
 
+=======
+<h3>Instructions for 'Introduction to Machine Learning with scikit-learn' </h3>
+For this workshop, you need to have Python 3 and Jupyter lab installed. See the instructions for the Intro to Python workshop on how to install Python with Anaconda.
+
+In addition, you need the following python packages:
+- pandas
+- scikit-learn
+- seaborn
+
+These packages can be installed through anaconda following [these instructions](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-packages/#installing-a-package) Or through the command line:
+```
+conda install pandas scikit-learn seaborn
+```
+
+<h3>Instructions for 'Introduction to Deep Learning with Keras' </h3>
+For this workshop, you need to have Python 3 and Jupyter lab installed. See the instructions for the Intro to Python workshop on how to install Python with Anaconda.
+
+In addition, you need the following python packages:
+- pandas
+- scikit-learn
+- seaborn
+- tensorflow
+
+These packages can be installed through anaconda following [these instructions](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-packages/#installing-a-package) Or through the command line:
+```
+conda install pandas scikit-learn seaborn tensorflow
+```
+
+<h4>Data</h4>
+For the Deep Learning with Keras workshop, you need to download the [Weather prediction dataset](https://raw.githubusercontent.com/florian-huber/weather_prediction_dataset/main/dataset/weather_prediction_dataset.csv). 
+
